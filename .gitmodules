@@ -1,0 +1,3 @@
+[submodule "character_creation_module"]
+	path = character_creation_module
+	url = git@github.com:hadge13/character_creation_module.git
